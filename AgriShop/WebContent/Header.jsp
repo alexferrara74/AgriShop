@@ -12,7 +12,7 @@
 </head>
 <body>
 	<div class="banner">
-		<p id="publicità">Spedizioni Gratuire a partire da 100,00 euro</p>
+		<p id="publicità">Spedizioni Gratuite a partire da 100,00 euro</p>
 	</div>
 
 
